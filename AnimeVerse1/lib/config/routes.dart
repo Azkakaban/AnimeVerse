@@ -7,6 +7,7 @@ import 'package:animeverse/widgets/bottom_navigation_shell.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import '../screens/detail_screen.dart';
+import 'package:flutter/cupertino.dart';
 
 class AppRoutes {
   static const String signIn = '/sign-in';
